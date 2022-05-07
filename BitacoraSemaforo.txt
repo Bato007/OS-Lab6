@@ -1,0 +1,115 @@
+--- Iniciando el programa ---
+Se inicio el semaforo
+Creando Threads
+Iniciando Threads 13069
+Iniciando Threads 13069
+Iniciando Threads 13069
+Iniciando Threads 13069
+Iniciando Threads 13069
+Main esperando a threads
+13074 - Iniciando iteracion 0
+13074 - (!) Recurso tomado
+13074 - ( ) Recurso usado
+13074 - (X) Recurso devuelto
+13074 - Iniciando iteracion 1
+13074 - (!) Recurso tomado
+13074 - ( ) Recurso usado
+13074 - (X) Recurso devuelto
+13074 - Iniciando iteracion 2
+13074 - (!) Recurso tomado
+13074 - ( ) Recurso usado
+13074 - (X) Recurso devuelto
+13074 - Iniciando iteracion 3
+13074 - (!) Recurso tomado
+13074 - ( ) Recurso usado
+13074 - (X) Recurso devuelto
+13074 - Iniciando iteracion 4
+13074 - (!) Recurso tomado
+13074 - ( ) Recurso usado
+13074 - (X) Recurso devuelto
+13074 - (-) Thread terminado
+13073 - Iniciando iteracion 0
+13073 - (!) Recurso tomado
+13073 - ( ) Recurso usado
+13073 - (X) Recurso devuelto
+13073 - Iniciando iteracion 1
+13073 - (!) Recurso tomado
+13073 - ( ) Recurso usado
+13073 - (X) Recurso devuelto
+13073 - Iniciando iteracion 2
+13073 - (!) Recurso tomado
+13073 - ( ) Recurso usado
+13073 - (X) Recurso devuelto
+13073 - Iniciando iteracion 3
+13073 - (!) Recurso tomado
+13073 - ( ) Recurso usado
+13073 - (X) Recurso devuelto
+13073 - Iniciando iteracion 4
+13073 - (!) Recurso tomado
+13073 - ( ) Recurso usado
+13071 - Iniciando iteracion 0
+13071 - (!) Recurso tomado
+13073 - (X) Recurso devuelto
+13073 - (-) Thread terminado
+13071 - ( ) Recurso usado
+13071 - (X) Recurso devuelto
+13071 - Iniciando iteracion 1
+13071 - (!) Recurso tomado
+13071 - ( ) Recurso usado
+13071 - (X) Recurso devuelto
+13071 - Iniciando iteracion 2
+13071 - (!) Recurso tomado
+13071 - ( ) Recurso usado
+13071 - (X) Recurso devuelto
+13071 - Iniciando iteracion 3
+13071 - (!) Recurso tomado
+13071 - ( ) Recurso usado
+13071 - (X) Recurso devuelto
+13071 - Iniciando iteracion 4
+13071 - (!) Recurso tomado
+13071 - ( ) Recurso usado
+13071 - (X) Recurso devuelto
+13071 - (-) Thread terminado
+13070 - Iniciando iteracion 0
+13070 - (!) Recurso tomado
+13070 - ( ) Recurso usado
+13070 - (X) Recurso devuelto
+13070 - Iniciando iteracion 1
+13070 - (!) Recurso tomado
+13070 - ( ) Recurso usado
+13070 - (X) Recurso devuelto
+13070 - Iniciando iteracion 2
+13070 - (!) Recurso tomado
+13070 - ( ) Recurso usado
+13070 - (X) Recurso devuelto
+13070 - Iniciando iteracion 3
+13070 - (!) Recurso tomado
+13070 - ( ) Recurso usado
+13072 - Iniciando iteracion 0
+13072 - (!) Recurso tomado
+13070 - (X) Recurso devuelto
+13072 - ( ) Recurso usado
+13072 - (X) Recurso devuelto
+13072 - Iniciando iteracion 1
+13072 - (!) Recurso tomado
+13072 - ( ) Recurso usado
+13072 - (X) Recurso devuelto
+13072 - Iniciando iteracion 2
+13072 - (!) Recurso tomado
+13072 - ( ) Recurso usado
+13072 - (X) Recurso devuelto
+13072 - Iniciando iteracion 3
+13072 - (!) Recurso tomado
+13072 - ( ) Recurso usado
+13072 - (X) Recurso devuelto
+13072 - Iniciando iteracion 4
+13072 - (!) Recurso tomado
+13072 - ( ) Recurso usado
+13072 - (X) Recurso devuelto
+13072 - (-) Thread terminado
+13070 - Iniciando iteracion 4
+13070 - (!) Recurso tomado
+13070 - ( ) Recurso usado
+13070 - (X) Recurso devuelto
+13070 - (-) Thread terminado
+--- Terminando programa ---
