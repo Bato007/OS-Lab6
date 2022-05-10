@@ -1,0 +1,33 @@
+--- Iniciando el programa ---
+Creando Threads
+Iniciando Threads 23399
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recusos suficientes disponibles, consumiendo... 
+Terminando decrease_count
+Iniciando Threads 23399
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recusos suficientes disponibles, consumiendo... 
+Terminando decrease_count
+Iniciando Threads 23399
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recusos suficientes disponibles, consumiendo... 
+Terminando decrease_count
+Iniciando Threads 23399
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+NUAY! Recursos actuales: 10
+Terminando decrease_count
+Iniciando Threads 23399
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+NUAY! Recursos actuales: 10
+Terminando decrease_count
+23404 - Iniciando iteracion 6
+23403 - Iniciando iteracion 6
+23402 - Iniciando iteracion 6
+23401 - Iniciando iteracion 6
+23400 - Iniciando iteracion 6
+--- Terminando programa ---
