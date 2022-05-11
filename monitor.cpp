@@ -35,13 +35,21 @@ class Monitor{
         {
             pthread_mutex_destroy(&MonitorLock);
         }
+        void lock()
+        {
+        		pthread_mutex_lock(&MonitorLock);
+        }
+        void unlock()
+        {
+        		pthread_mutex_unlock(&MonitorLock);
+        }
 
         void* decrease();
 };
 
 void* Monitor::decrease() {
     printf("entraaaa\n");
-    pthread_mutex_lock(&MonitorLock);
+    lock();
     file << "Iniciando Threads " << syscall(SYS_gettid) << "\n";
     
     file << "Iniciando decrease_count\n";
@@ -56,13 +64,14 @@ void* Monitor::decrease() {
         file << "NUAY! Recursos actuales: " << MAX_RESOURCES << "\n";
     }
     file << "Terminando decrease_count\n" ;
-    pthread_mutex_unlock(&MonitorLock);
+    unlock();
 }
 
 typedef void* (*THREADFUNCMONITOR) (void *);
 
 int main() {
     Monitor* monitor = new Monitor();
+    monitor->counterInit();
     file.open("./BitacoraSemaforo2.txt", ofstream::out);
     file << "--- Iniciando el programa ---" << "\n";
     pthread_t threadPool[THREAD_POOL];
@@ -79,5 +88,6 @@ int main() {
 
     file << "--- Terminando programa ---" << "\n";
     file.close();
+    monitor->counterEnd();
     return 0;
 }

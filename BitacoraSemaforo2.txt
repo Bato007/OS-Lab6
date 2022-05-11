@@ -1,26 +1,26 @@
 --- Iniciando el programa ---
 Creando Threads
-Iniciando Threads 24349
+Iniciando Threads 2165
 Iniciando decrease_count
 Mutex adquirido, entrando al monitor
 Recusos suficientes disponibles, consumiendo... 
 Terminando decrease_count
-Iniciando Threads 24348
+Iniciando Threads 2168
 Iniciando decrease_count
 Mutex adquirido, entrando al monitor
 Recusos suficientes disponibles, consumiendo... 
 Terminando decrease_count
-Iniciando Threads 24347
+Iniciando Threads 2166
 Iniciando decrease_count
 Mutex adquirido, entrando al monitor
 Recusos suficientes disponibles, consumiendo... 
 Terminando decrease_count
-Iniciando Threads 24346
+Iniciando Threads 2167
 Iniciando decrease_count
 Mutex adquirido, entrando al monitor
 NUAY! Recursos actuales: 10
 Terminando decrease_count
-Iniciando Threads 24345
+Iniciando Threads 2169
 Iniciando decrease_count
 Mutex adquirido, entrando al monitor
 NUAY! Recursos actuales: 10
